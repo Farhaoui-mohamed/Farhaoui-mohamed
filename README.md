@@ -11,12 +11,12 @@
 <a href="mailto:farhaouimohamed46@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
-<!-- CV BANNER: upload cv-cyber-banner.jpg and Mohamed_Farhaoui_CV.pdf to the repository root -->
-<a href="./Mohamed_Farhaoui_CV.pdf">
-  <img src="./cv-cyber-banner.jpg" width="100%" alt="Cyber-themed Curriculum Vitae banner — click to view and download the PDF" />
-</a>
+<!-- CV: keep both files in the repository root -->
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=17&duration=1800&pause=700&color=00E5FF&center=true&vCenter=true&width=720&lines=%E2%96%BC+CLICK+THE+BANNER+BELOW+TO+OPEN+MY+CV+%E2%96%BC;CLICK+%E2%86%92+VIEW+%26+DOWNLOAD+MY+CV+%28PDF%29" alt="Animated instruction: click the banner below to open my CV" />
 
-<sub>↳ Click the banner to view or download the PDF</sub>
+<a href="./Mohamed_Farhaoui_CV.pdf">
+  <img src="./cv-cyber-banner.jpg" width="82%" alt="Click this cyber-themed banner to open or download my CV PDF" />
+</a>
 
 </div>
 
