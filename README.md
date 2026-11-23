@@ -12,6 +12,14 @@
 
 </div>
 
+<div align="center">
+
+### 📄 Curriculum Vitae (CV)
+
+**Direct Access:** [View & Download My CV (PDF)](./Mohamed_Farhaoui_CV.pdf)
+
+</div>
+
 ---
 
 ```bash
@@ -22,16 +30,6 @@ Cybersecurity engineering student | CEH certified
 Focused on network security, web security & ethical hacking.
 Building practical skills through projects and authorized labs.
 ```
-
-## `// Curriculum Vitae`
-
-<div align="center">
-
-<a href="https://github.com/Farhaoui-mohamed/mohamed-farhaoui-cv/blob/main/Mohamed%20Farhaoui%20-%20Cybersecurity%20CV.pdf">
-<img src="https://img.shields.io/badge/CURRICULUM_VITAE-VIEW_&_DOWNLOAD_PDF-00E5FF?style=for-the-badge&logo=read-the-docs&logoColor=00E5FF&labelColor=090014"/>
-</a>
-
-</div>
 
 ## `// About Me`
 
