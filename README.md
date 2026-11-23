@@ -9,7 +9,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-00B8D9?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-farhaoui-913754224)
 [![GitHub](https://img.shields.io/badge/GitHub-Portfolio-7B2CBF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Farhaoui-mohamed)
 [![Email](https://img.shields.io/badge/Email-Contact-DB2777?style=for-the-badge&logo=gmail&logoColor=white)](mailto:farhaouimohamed46@gmail.com)
-
+[![CV](https://img.shields.io/badge/📄_VIEW_CV-PDF-ff5722?style=for-the-badge)](https://github.com/Farhaoui-mohamed/mohamed-farhaoui-cv/blob/main/Mohamed%20Farhaoui%20-%20Cybersecurity%20CV.pdf)
 </div>
 
 ---
