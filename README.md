@@ -2,8 +2,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:090014,50:101D40,100:00E5FF&height=220&section=header&text=MOHAMED%20FARHAOUI&fontSize=42&fontColor=ffffff&fontAlignY=36&desc=Cybersecurity%20%7C%20Ethical%20Hacking%20%7C%20Network%20Security&descAlignY=60&descSize=17" width="100%"/>
 
-### 📄 Curriculum Vitae (CV)
-> **Direct Access:** [**View & Download My CV (PDF)**](https://github.com/Farhaoui-mohamed/mohamed-farhaoui-cv/blob/main/Mohamed%20Farhaoui%20-%20Cybersecurity%20CV.pdf)
 <a href="https://github.com/Farhaoui-mohamed">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=2800&pause=900&color=00E5FF&center=true&vCenter=true&width=700&lines=Cybersecurity+Engineering+Student;CEH+%7C+Ethical+Hacking;Learning.+Building.+Securing.;%24+sudo+become+the+change" alt="Typing animation"/>
 </a>
