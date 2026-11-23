@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- HERO -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:080B16,50:101D40,100:00B8D9&height=210&text=MOHAMED%20FARHAOUI&fontSize=38&fontColor=EAFBFF&fontAlignY=50&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:050510,25:0B1026,55:24104A,100:00E5FF&height=230&text=MOHAMED%20FARHAOUI&fontSize=42&fontColor=EAFBFF&animation=fadeIn&stroke=00E5FF&strokeWidth=1&fontAlignY=55" />
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2600&pause=900&color=00E5FF&center=true&vCenter=true&width=820&lines=Cybersecurity+Engineering+Student;CEH+%7C+Ethical+Hacking;Network+%26+Web+Security;Recon+%E2%86%92+Analyze+%E2%86%92+Document+%E2%86%92+Improve" alt="Typing animation" />
 
@@ -11,10 +11,12 @@
 <a href="mailto:farhaouimohamed46@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
-<!-- CV link: rename the PDF Mohamed_Farhaoui_CV.pdf and upload it to the root of the profile repository -->
-<a href="https://github.com/Farhaoui-mohamed/Farhaoui-mohamed/blob/main/Mohamed_Farhaoui_CV.pdf"><img src="https://img.shields.io/badge/CV-View%20%26%20Download-00B8D9?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="View and download CV" /></a>
+<!-- CV BANNER: upload cv-cyber-banner.jpg and Mohamed_Farhaoui_CV.pdf to the repository root -->
+<a href="./Mohamed_Farhaoui_CV.pdf">
+  <img src="./cv-cyber-banner.jpg" width="100%" alt="Cyber-themed Curriculum Vitae banner — click to view and download the PDF" />
+</a>
 
-<sub>Curriculum Vitae · PDF</sub>
+<sub>↳ Click the banner to view or download the PDF</sub>
 
 </div>
 
